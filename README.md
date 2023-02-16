@@ -81,7 +81,7 @@ public class Main {
 ```
 
 
-However, the `Python Tutor` visualizer requires a single public class.
+However, the browser-based visualizer at [https://pythontutor.com/](https://pythontutor.com/) requires a single public class.
 If the application involves multiple classes, the other classes must
 omit the `public` keyword from the class declaration, which assigns the
 default `package` access to the class.
